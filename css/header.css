@@ -1,0 +1,20 @@
+/* Default, Active, Hover, and Focus States */
+
+body {
+  background: url(../images/Skola.jpg) no-repeat center center fixed
+}
+
+/* .nav-container .navbar > a {
+  color: white;
+} */
+
+a{
+  color:white;
+  text-decoration: none;
+  font-style: bold;
+  margin-left: 10px;
+}
+
+.icon{
+  margin-right: 5px;
+}
