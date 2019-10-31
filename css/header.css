@@ -18,3 +18,25 @@
 .custom-toggler .navbar-toggler-icon {
  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
+
+.header-content {
+  margin:60px;
+}
+
+h1 {
+  color: #f5f5f5;
+  text-align: center;
+  text-shadow: 1px 1px #000000;
+  font-family: 'K2D', sans-serif;
+  font-size: 45px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  color: #f5f5f5;
+  text-align: center;
+  text-shadow: 1px 1px #000000;
+  font-family: 'K2D', sans-serif;
+  font-size: 20px;
+  margin-top: 0px;
+}
