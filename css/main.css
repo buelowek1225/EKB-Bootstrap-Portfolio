@@ -4,5 +4,25 @@ html {
 }
 
 body {
-  background-color: transparent;
+  background-color: unset;
 }
+
+.profile_pic {
+  width: 250px;
+  margin: 6px 20px
+}
+
+.container {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #2b344a;
+  font-family: 'K2D', sans-serif;
+  background-color: #E1E1E195;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+  width: 80%;
+}
+
