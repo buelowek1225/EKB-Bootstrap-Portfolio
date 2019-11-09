@@ -11,8 +11,8 @@
   font-size: 18px;
 }
 
-.navbar-dark .navbar-toggler {
-  border-color: transparent;
+.navbar-dark {
+  color: unset;
 }
 
 .custom-toggler .navbar-toggler-icon {
